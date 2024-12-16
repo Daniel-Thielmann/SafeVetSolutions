@@ -1,35 +1,20 @@
-<p align="center"><a href="https://codejr.com.br/" target="_blank"><img src="https://codejr.com.br/wp-content/uploads/elementor/thumbs/Da-uma-olhada-no-design-que-eu-fiz-no-Canva-e1631206678162-pcvbl6lcx3mwo97eg0q4yn4zchcokysbd7aoauowe8.png" width="750" alt="Code"></a></p>
+Atuei como Projetista Full Stack no desenvolvimento do site da Safe Vet Solutions, uma plataforma voltada para oferecer soluções inovadoras no cuidado veterinário. Durante o projeto, fui responsável por liderar e executar diversas etapas do desenvolvimento, desde a concepção até a entrega final do produto.
 
-<h1 align="center">
-    SafeVet - Site
-</h1>
+Minhas responsabilidades no projeto incluíram:
 
-## Sobre o projeto
+Frontend:
+Desenvolvimento de uma interface amigável, responsiva e intuitiva para garantir uma experiência do usuário (UX) de alta qualidade.
+Utilização de tecnologias modernas, como React e Next.js, para criar componentes reutilizáveis e altamente performáticos.
+Implementação de estilização com bibliotecas como TailwindCSS e/ou Styled Components.
 
-O projeto consite em desenvolver a parte expositiva (pública) e do usuário (privada) do SafeVet.
+Backend:
+Construção de uma API robusta utilizando Node.js com Express ou frameworks equivalentes, garantindo a escalabilidade e a segurança do sistema.
+Integração de banco de dados, utilizando, SQL para gerenciar os dados da plataforma.
+Implementação de autenticação segura com JWT e controle de permissões para os usuários do sistema.
+DevOps e Infraestrutura:
 
-<li>Pública: Consiste em expor produtos, soluções, informações sobre o SafeVet e a Empresa em geral. O usuário NÃO precisa estar logado para acessar nenhuma dessas páginas.</li>
-<li>Privada: Seção do usuário, onde ele terá acesso após fazer login no site. Será mostrada toda a seção de Dashboard do mesmo, onde ele poderá gerenciar seus conteúdos, enviar formulários, etc...</li>
+Configuração do ambiente de produção, incluindo hospedagem em plataformas como Vercel, AWS ou Heroku.
+Gerenciamento de versionamento do código utilizando Git e GitHub, garantindo a rastreabilidade e a colaboração eficiente no projeto.
 
-## Documento de Requisitos
-
-Link: <a href="https://docs.google.com/document/d/1ML_LIv5-YeVcB2nCQlbp46cf0U5QnTGWBOs8-JhORAk/edit">https://docs.google.com/document/d/1ML_LIv5-YeVcB2nCQlbp46cf0U5QnTGWBOs8-JhORAk/edit</a>
-
-## Fluxo de Desenvolvimento
-
-Comandos e práticas que você deve seguir e se atentar ao desenvolver diariamente:
-
-- Nunca dê commit na main como desenvolvedor, caso aconteça, reporte ao Gerente do Projeto responsável imediatamente
-- Sempre execute git pull quando for criar uma nova branch
-- Faça commits no imperativo, ex: "Feito: Landing Page", "Fix: Rotas Backend"
-- Sempre que for feita alguma nova migration no banco, confira antes com o projeto em Laravel sobre as alterações
-
-## Como executar o projeto pela primeira vez
-
-Para executar o projeto você deve seguir os seguintes passos:
-
-- Clone este Repositório em sua máquina com o comando git clone "url"
-- Execute o comando npm install (Instalação de dependências)
-- Execute o comando npm run dev (Inicialização do Servidor)
-
-- ** Commits são apenas aceitos caso você faça parte do time de desenvolvimento deste projeto. **
+Resultados alcançados:
+O site da Safe Vet Solutions foi entregue com sucesso, oferecendo uma plataforma confiável e eficiente para o público-alvo. Através de minha atuação como projetista full stack, garanti a implementação de funcionalidades que atendem às necessidades do cliente, entregando um produto escalável e preparado para o futuro.
