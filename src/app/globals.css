@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+@font-face {
+  font-family: "Goldplay Regular";
+  src: url("/fonts/Goldplay-RegularIt.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Goldplay Alt Thin";
+  src: url("/fonts/GoldplayAlt-Thin.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Goldplay Medium";
+  src: url("/fonts/Goldplay-Medium.ttf") format("truetype");
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Bunken Tech Sans";
+  src: url("/fonts/bunkentechsansscwide-bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Manilla Cellos";
+  src: url("/fonts/Manilla%20Cellos.otf") format("opentype");
+}
+
+:root {
+  --font-goldplay: "Goldplay Regular";
+  --font-goldplayalt: "Goldplay Alt Thin";
+  --font-goldplaymedium: "Goldplay Medium";
+  --font-bunken: "Bunken Tech Sans";
+  --font-manilla: "Manilla Cellos";
+}
